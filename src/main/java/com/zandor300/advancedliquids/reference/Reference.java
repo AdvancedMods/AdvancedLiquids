@@ -4,6 +4,7 @@ package com.zandor300.advancedliquids.reference;
  * Created by Zandor300 on 18-12-2014.
  */
 public class Reference {
+
 	// Names
 	public static final String MOD_ID = "advancedliquids";
 	public static final String MOD_NAME = "Advanced Liquids";
