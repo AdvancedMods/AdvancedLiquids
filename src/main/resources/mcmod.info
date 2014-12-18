@@ -1,0 +1,16 @@
+[
+{
+  "modid": "advancedliquids",
+  "name": "Advanced Liquids",
+  "description": "Add more liquids to the game!",
+  "version": "1.7.10-0.1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zandor300", "Dennisbonke"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
