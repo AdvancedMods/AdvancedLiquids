@@ -1,5 +1,6 @@
 package com.zandor300.advancedliquids;
 
+import com.zandor300.advancedliquids.initialization.ModItems;
 import com.zandor300.advancedliquids.reference.Reference;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -15,7 +16,7 @@ public class AdvancedLiquids {
 
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
-		//ModItems.init();
+		ModItems.init();
 	}
 
 	@Mod.EventHandler
